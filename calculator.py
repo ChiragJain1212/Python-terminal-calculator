@@ -1,0 +1,5 @@
+print("enter num1")
+num1 = input()
+print("enter num 2")
+num2 = input()
+print(num1+num2)
